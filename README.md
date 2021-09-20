@@ -43,7 +43,7 @@ This is H Tech Media.H Tech Media is a YouTube Channel from Kerala, India filled
 <p align="center">
 <a href="https://github.com/HTechMediaYT"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=HTechMediaYT&bg_color=20222b&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </p>
-  
+
 ##  📊 Stats
 
 [![Metrics](https://metrics.lecoq.io/HTechMediaYT?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://www.github.com/HTechMediaYT)
