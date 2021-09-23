@@ -51,8 +51,10 @@ This is H Tech Media.H Tech Media is a YouTube Channel from Kerala, India filled
 [Subscribe Our Youtube Channel 💖](https://www.youtube.com/channel/UCrAM4Fg0zn7uLgAAfII-SWQ)
 
 <p align="left">
-    <img width="49%" src="https://telegra.ph/file/8ea36f4b9ae37299e25b9.jpg"/>
-
+    <img width="49%"  
+    <a href="https://www.youtube.com/channel/UCrAM4Fg0zn7uLgAAfII-SWQ">       
+    <img src="https://telegra.ph/file/8ea36f4b9ae37299e25b9.jpg"/>
+</p>
 
 
 #### Made With ❤ By [@HTechMedia](https://telegram.dog/HTechMedia) 
